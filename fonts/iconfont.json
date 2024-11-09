@@ -1,0 +1,65 @@
+{
+  "id": "4689419",
+  "name": "点餐PC端",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1129519",
+      "name": "店铺",
+      "font_class": "dianpu",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "9017291",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "1581608",
+      "name": "icon_员工管理",
+      "font_class": "icon_yuangongguanli",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "5491730",
+      "name": "分类管理",
+      "font_class": "fenleiguanli",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "11441207",
+      "name": "订单管理",
+      "font_class": "dingdanguanli",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "20301010",
+      "name": "病案统计管理-统计",
+      "font_class": "bingantongjiguanli-tongji",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "21103585",
+      "name": "套餐管理",
+      "font_class": "taocanguanli",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "27885166",
+      "name": "菜品管理",
+      "font_class": "caipinguanli",
+      "unicode": "e7fa",
+      "unicode_decimal": 59386
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+name: flutter_pc_manager
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=2.18.2 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter_screenutil: 5.5.3+2
+  dio: 4.0.6
+  http: 0.13.5
+  web_socket_channel: 2.2.0
+  shared_preferences: 2.0.0
+  flutter_echarts: 1.5.0
+  image_picker: ^0.7.0
+  syncfusion_flutter_charts: ^18.4.49
+  audioplayers: ^1.1.0
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: 2.0.2
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - images/
+    - assets/preview.mp3
+    - assets/reminder.mp3
+    - assets/paysuccess.mp3
+  fonts:
+    - family: Nau
+      fonts:
+        - asset: fonts/iconfont.ttf
+  uses-material-design: true
